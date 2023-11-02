@@ -7,8 +7,6 @@ do{
     } else {
         alert("Dato incorrecto. Ingrese un número");
     }
-    console.log(numero)
-    
 }while(confirm("¿Desea seguir ingresando números?"));
 
 document.write("La suma de todos los números ingresados es: " + suma);
