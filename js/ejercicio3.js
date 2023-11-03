@@ -12,4 +12,4 @@ do {
 
   guion++;
 } while (confirm("¿Desea seguir agregando cadenas de texto?"));
-console.log("Las cadenas de texto ingresadas son: " + frase);
+document.write("Las cadenas de texto ingresadas son: " + frase);
