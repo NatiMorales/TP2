@@ -9,73 +9,73 @@ do{
             //Según el resultado, de 0 a 22, le corresponderá una letra de las siguientes:  
             //(T, R, W, A, G, M, Y, F, P, D, X, B, N, J, Z, S, Q, V, H, L, C, K, E) 
             case 0:
-                document.write(`A el dni número ${dni} le corresponde la letra: T`);
+                document.write(`Al dni número ${dni} le corresponde la letra: T`);
                 break;
             case 1:
-                document.write(`A el dni número ${dni} le corresponde la letra: R`);
+                document.write(`Al dni número ${dni} le corresponde la letra: R`);
                 break;
             case 2:
-                document.write(`A el dni número ${dni} le corresponde la letra: W`);
+                document.write(`Al dni número ${dni} le corresponde la letra: W`);
                 break;
             case 3:
-                document.write(`A el dni número ${dni} le corresponde la letra: A`);
+                document.write(`Al dni número ${dni} le corresponde la letra: A`);
                 break;
             case 4:
-                document.write(`A el dni número ${dni} le corresponde la letra: G`);
+                document.write(`Al dni número ${dni} le corresponde la letra: G`);
                 break;
             case 5:
-                document.write(`A el dni número ${dni} le corresponde la letra: M`);
+                document.write(`Al dni número ${dni} le corresponde la letra: M`);
                 break;
             case 6:
-                document.write(`A el dni número ${dni} le corresponde la letra: Y`);
+                document.write(`Al dni número ${dni} le corresponde la letra: Y`);
                 break;
             case 7:
-                document.write(`A el dni número ${dni} le corresponde la letra: F`);
+                document.write(`Al dni número ${dni} le corresponde la letra: F`);
                 break;
             case 8:
-                document.write(`A el dni número ${dni} le corresponde la letra: P`);
+                document.write(`Al dni número ${dni} le corresponde la letra: P`);
                 break;
             case 9:
-                document.write(`A el dni número ${dni} le corresponde la letra: D`);
+                document.write(`Al dni número ${dni} le corresponde la letra: D`);
                 break;
             case 10:
-                document.write(`A el dni número ${dni} le corresponde la letra: X`);
+                document.write(`Al dni número ${dni} le corresponde la letra: X`);
                 break;
             case 11:
-                document.write(`A el dni número ${dni} le corresponde la letra: B`);
+                document.write(`Al dni número ${dni} le corresponde la letra: B`);
                 break;
             case 12:
-                document.write(`A el dni número ${dni} le corresponde la letra: N`);
+                document.write(`Al dni número ${dni} le corresponde la letra: N`);
                 break;
             case 13:
-                document.write(`A el dni número ${dni} le corresponde la letra: J`);
+                document.write(`Al dni número ${dni} le corresponde la letra: J`);
                 break;
             case 14:
-                document.write(`A el dni número ${dni} le corresponde la letra: Z`);
+                document.write(`Al dni número ${dni} le corresponde la letra: Z`);
                 break;
             case 15:
-                document.write(`A el dni número ${dni} le corresponde la letra: S`);
+                document.write(`Al dni número ${dni} le corresponde la letra: S`);
                 break;
             case 16:
-                document.write(`A el dni número ${dni} le corresponde la letra: Q`);
+                document.write(`Al dni número ${dni} le corresponde la letra: Q`);
                 break;
             case 17:
-                document.write(`A el dni número ${dni} le corresponde la letra: V`);
+                document.write(`Al dni número ${dni} le corresponde la letra: V`);
                 break;
             case 18:
-                document.write(`A el dni número ${dni} le corresponde la letra: H`);
+                document.write(`Al dni número ${dni} le corresponde la letra: H`);
                 break;
             case 19:
-                document.write(`A el dni número ${dni} le corresponde la letra: L`);
+                document.write(`Al dni número ${dni} le corresponde la letra: L`);
                 break;
             case 20:
-                document.write(`A el dni número ${dni} le corresponde la letra: C`);
+                document.write(`Al dni número ${dni} le corresponde la letra: C`);
                 break;
             case 21:
-                document.write(`A el dni número ${dni} le corresponde la letra: K`);
+                document.write(`Al dni número ${dni} le corresponde la letra: K`);
                 break;
             case 22:
-                document.write(`A el dni número ${dni} le corresponde la letra: E`);
+                document.write(`Al dni número ${dni} le corresponde la letra: E`);
                 break;
             default:
                 break;
